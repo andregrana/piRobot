@@ -1,0 +1,94 @@
+# depslib dependency file v1.0
+1378132753 source:c:\users\andré\dropbox\usp\tcc\rn_ram\main.c
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+
+1378176241 source:c:\users\andré\dropbox\usp\tcc\rn_ram\main_cat.c
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+
+1381883402 source:c:\users\andre\dropbox\usp\tcc\rn_ram\main.c
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<sys/time.h>
+	"include/defines.h"
+	"rede.c"
+	"sensores.c"
+	"supervisor.c"
+	"evolutivo.c"
+
+1381376790 source:c:\users\andre\dropbox\usp\tcc\rn_ram\main_cat.c
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<sys/time.h>
+	"include/defines.h"
+	"rede.c"
+	"sensores.c"
+	"supervisor.c"
+	"evolutivo.c"
+
+1378132753 source:c:\users\andre\dropbox\usp\tcc\rn_ram\main.cpp
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+
+1379114214 source:c:\users\andre\dropbox\usp\tcc\rn_ram\rede.cpp
+
+1379115696 source:c:\users\andre\dropbox\usp\tcc\rn_ram\src\rede.cpp
+	"..\include\rede.h"
+
+1381767693 c:\users\andre\dropbox\usp\tcc\rn_ram\include\rede.h
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	"defines.h"
+
+1380308039 source:c:\users\andre\dropbox\usp\tcc\rn_ram\main_cat.cpp
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	"include/defines.h"
+
+1381380602 source:c:\users\andre\dropbox\usp\tcc\rn_ram\sensores.c
+	"include/sensores.h"
+
+1382749570 c:\users\andre\dropbox\usp\tcc\rn_ram\include\defines.h
+
+1381463730 source:c:\users\andre\dropbox\usp\tcc\rn_ram\supervisor.c
+	"include/supervisor.h"
+
+1382723822 c:\users\andre\dropbox\usp\tcc\rn_ram\sensores.c
+	"include/sensores.h"
+
+1381767406 c:\users\andre\dropbox\usp\tcc\rn_ram\rede.c
+	"include/rede.h"
+
+1381767406 source:c:\users\andre\dropbox\usp\tcc\rn_ram\rede.c
+	"include/rede.h"
+
+1381463730 c:\users\andre\dropbox\usp\tcc\rn_ram\supervisor.c
+	"include/supervisor.h"
+
+1381895569 source:c:\users\andre\dropbox\usp\tcc\rn_ram\evolutivo.c
+	"include/evolutivo.h"
+
+1381504799 c:\users\andre\dropbox\usp\tcc\rn_ram\include\evolutivo.h
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	"defines.h"
+
+1382723845 c:\users\andre\dropbox\usp\tcc\rn_ram\include\sensores.h
+	<stdio.h>
+	<sys/time.h>
+	"defines.h"
+
+1381377856 c:\users\andre\dropbox\usp\tcc\rn_ram\include\supervisor.h
+
+1382723898 c:\users\andre\dropbox\usp\tcc\rn_ram\evolutivo.c
+	"include/evolutivo.h"
+
